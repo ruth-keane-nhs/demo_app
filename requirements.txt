@@ -8,6 +8,8 @@ streamlit_folium==0.22.0
 folium==0.17.0
 geopandas==1.0.1
 palmerpenguins==0.1.4
+ipykernel==6.29.5
+ipython==8.27.0
 wordcloud==1.9.3
 openpyxl
 nbformat>=4.2.0
